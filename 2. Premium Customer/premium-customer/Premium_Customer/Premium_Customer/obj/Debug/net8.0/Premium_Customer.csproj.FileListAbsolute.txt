@@ -1,0 +1,14 @@
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\bin\Debug\net8.0\Premium_Customer.exe
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\bin\Debug\net8.0\Premium_Customer.deps.json
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\bin\Debug\net8.0\Premium_Customer.runtimeconfig.json
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\bin\Debug\net8.0\Premium_Customer.dll
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\bin\Debug\net8.0\Premium_Customer.pdb
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.AssemblyInfoInputs.cache
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.AssemblyInfo.cs
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.csproj.CoreCompileInputs.cache
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.dll
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\refint\Premium_Customer.dll
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.pdb
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\Premium_Customer.genruntimeconfig.cache
+C:\Assesments\2. Premium Customer\Premium_Customer\Premium_Customer\obj\Debug\net8.0\ref\Premium_Customer.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05BC2F0-F3CE-438E-A98D-28BF2095E5D7}|ContactGroupAssesment\\ContactGroupAssesment.csproj|c:\\assesments\\3. contact group app\\contactgroupassesment\\contactgroupassesment\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05BC2F0-F3CE-438E-A98D-28BF2095E5D7}|ContactGroupAssesment\\ContactGroupAssesment.csproj|solutionrelative:contactgroupassesment\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05BC2F0-F3CE-438E-A98D-28BF2095E5D7}|ContactGroupAssesment\\ContactGroupAssesment.csproj|c:\\assesments\\3. contact group app\\contactgroupassesment\\contactgroupassesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05BC2F0-F3CE-438E-A98D-28BF2095E5D7}|ContactGroupAssesment\\ContactGroupAssesment.csproj|solutionrelative:contactgroupassesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05BC2F0-F3CE-438E-A98D-28BF2095E5D7}|ContactGroupAssesment\\ContactGroupAssesment.csproj|c:\\assesments\\3. contact group app\\contactgroupassesment\\contactgroupassesment\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05BC2F0-F3CE-438E-A98D-28BF2095E5D7}|ContactGroupAssesment\\ContactGroupAssesment.csproj|solutionrelative:contactgroupassesment\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\ContactGroupAssesment\\ContactService.cs",
+              "RelativeDocumentMoniker": "ContactGroupAssesment\\ContactService.cs",
+              "ToolTip": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\ContactGroupAssesment\\ContactService.cs",
+              "RelativeToolTip": "ContactGroupAssesment\\ContactService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:32:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\ContactGroupAssesment\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactGroupAssesment\\Contact.cs",
+              "ToolTip": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\ContactGroupAssesment\\Contact.cs",
+              "RelativeToolTip": "ContactGroupAssesment\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:32:11.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\ContactGroupAssesment\\Program.cs",
+              "RelativeDocumentMoniker": "ContactGroupAssesment\\Program.cs",
+              "ToolTip": "C:\\Assesments\\3. Contact Group APP\\ContactGroupAssesment\\ContactGroupAssesment\\Program.cs",
+              "RelativeToolTip": "ContactGroupAssesment\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:31:02.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

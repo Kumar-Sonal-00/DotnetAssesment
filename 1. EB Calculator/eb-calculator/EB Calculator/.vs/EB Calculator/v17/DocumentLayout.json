@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assesments\\1. EB Calculator\\EB Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0574F6E-F5CA-4FB3-B11E-F0FA56DDB21C}|EB Calculator\\EB Calculator.csproj|c:\\assesments\\1. eb calculator\\eb calculator\\eb calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0574F6E-F5CA-4FB3-B11E-F0FA56DDB21C}|EB Calculator\\EB Calculator.csproj|solutionrelative:eb calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0574F6E-F5CA-4FB3-B11E-F0FA56DDB21C}|EB Calculator\\EB Calculator.csproj|c:\\assesments\\1. eb calculator\\eb calculator\\eb calculator\\billcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0574F6E-F5CA-4FB3-B11E-F0FA56DDB21C}|EB Calculator\\EB Calculator.csproj|solutionrelative:eb calculator\\billcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillCalculator.cs",
+              "DocumentMoniker": "C:\\Assesments\\1. EB Calculator\\EB Calculator\\EB Calculator\\BillCalculator.cs",
+              "RelativeDocumentMoniker": "EB Calculator\\BillCalculator.cs",
+              "ToolTip": "C:\\Assesments\\1. EB Calculator\\EB Calculator\\EB Calculator\\BillCalculator.cs",
+              "RelativeToolTip": "EB Calculator\\BillCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:00:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Assesments\\1. EB Calculator\\EB Calculator\\EB Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "EB Calculator\\Program.cs",
+              "ToolTip": "C:\\Assesments\\1. EB Calculator\\EB Calculator\\EB Calculator\\Program.cs",
+              "RelativeToolTip": "EB Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:58:33.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+
+
+   <div class="profile-container">
+    <div *ngIf="!isEditing">
+      <h2>User Profile</h2>
+      <p><strong>Name:</strong> {{ user.name }}</p>
+      <p><strong>Age:</strong> {{ user.age }}</p>
+      <p><strong>Email:</strong> {{ user.email }}</p>
+      <p><strong>Address:</strong> {{ user.address }}</p>
+      <button  (click)="toggleEdit()">Edit</button>
+    </div>
+ 
+    <div *ngIf="isEditing">
+      <h2>Edit Profile</h2>
+      <form (ngSubmit)="saveChanges()" #profileForm="ngForm">
+        <label for="name">Name:</label>
+        <input id="name" [(ngModel)]="user.name" name="name" required>
+ 
+        <label for="email">Email:</label>
+        <input id="email" [(ngModel)]="user.email" name="email" required type="email">
+        <div *ngIf="profileForm.submitted && !validateEmail(user.email)" class="error">
+          Invalid email format
+        </div>
+ 
+        <label for="address">Address:</label>
+        <input id="address" [(ngModel)]="user.address" name="address">
+ 
+        <button type="submit">Save</button>
+        <button type="button" (click)="toggleEdit()">Cancel</button>
+      </form>
+    </div>
+  </div>
+

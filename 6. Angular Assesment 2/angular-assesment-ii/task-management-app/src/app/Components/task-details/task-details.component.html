@@ -1,0 +1,6 @@
+<div class="container" *ngIf="task">
+    <h2>Task Details</h2>
+    <h5>{{ task.title }}</h5>
+    <p>{{ task.description }}</p>
+    <p>{{ task | taskStatus }}</p>
+  </div>

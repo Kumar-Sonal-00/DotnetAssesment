@@ -1,0 +1,14 @@
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\bin\Debug\net8.0\EB Calculator.exe
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\bin\Debug\net8.0\EB Calculator.deps.json
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\bin\Debug\net8.0\EB Calculator.runtimeconfig.json
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\bin\Debug\net8.0\EB Calculator.dll
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\bin\Debug\net8.0\EB Calculator.pdb
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.AssemblyInfoInputs.cache
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.AssemblyInfo.cs
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.csproj.CoreCompileInputs.cache
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.dll
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\refint\EB Calculator.dll
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.pdb
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\EB Calculator.genruntimeconfig.cache
+C:\Assesments\1. EB Calculator\EB Calculator\EB Calculator\obj\Debug\net8.0\ref\EB Calculator.dll

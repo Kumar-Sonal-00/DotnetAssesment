@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Entry Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Enter Product Details</h1>
+    <div class="form-container">
+        <div class="form-group">
+            <label for="productId">Product Id:</label>
+            <input type="text" id="productId" required>
+        </div>
+        <div class="form-group">
+            <label for="productName">Product Name:</label>
+            <input type="text" id="productName" required>
+        </div>
+        <div class="form-group">
+            <label for="price">Price:</label>
+            <input type="number" id="price" required>
+        </div>
+        <div class="form-group">
+            <label for="quantity">Quantity:</label>
+            <input type="number" id="quantity" required>
+        </div>
+        <button id="addProduct">Add Product</button>
+        <button id="displayProducts">Display</button>
+    </div>
+
+    <h2>Product List</h2>
+    <table id="productTable">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total Cost</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Products will be added here dynamically -->
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4">Total Cost:</td>
+                <td id="totalCost" style="color: red; font-weight: bold;">0</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
